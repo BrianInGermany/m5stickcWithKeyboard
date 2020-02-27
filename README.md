@@ -1,2 +1,4 @@
-# m5stickcWithKeyboard
-This repository is for documenting how to use the M5Stickc with a bluetooth keyboard and printing text to screen.
+# Pair a Bluetooth Keyboard to the M5StickC
+## Resources
+- [Github: wrap and rotate text on m5stickc](https://github.com/electricidea/M5StickC-TB_Display)
+- 
